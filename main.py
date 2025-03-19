@@ -1,2 +1,2 @@
-print("hallo")
+print("aurora is hier")
 # comment toevoegen
